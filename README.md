@@ -1,3 +1,4 @@
 # pychip
 chip-8 emulator for python 
-[w: text is brazil]
+language: brazil
+a chip-8 [rom .ch8]
